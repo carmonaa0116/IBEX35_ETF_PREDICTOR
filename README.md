@@ -67,3 +67,18 @@ pip install yfinance==0.2.38 \
             ta==0.11.0 \
             xgboost==2.0.3 \
             matplotlib pandas numpy
+```
+## 🖥️ Guía de Uso
+
+🔄 Ciclo de EntrenamientoSi es la primera vez que usas el sistema, ejecuta los notebooks en este orden:01_data_extraction.ipynb02_feature_engineering.ipynb03_model_training.ipynb
+
+## 📅 Operativa Semanal
+Tras el cierre del mercado los viernes, genera tu estrategia para la semana siguiente:
+Actualizar datos: Ejecuta el generador de señales.Consultar Dashboard: Revisa la confianza de la señal antes de operar.Tiempo estimado: ~3 minutos.
+
+## 📊 Métricas de Evaluación
+El rendimiento se mide bajo criterios estrictos de la industria: 
+Accuracy & ROC-AUC: Para validar la precisión de la dirección.
+MAE & $R^2$: Para la precisión del retorno esperado.
+
+## Aviso Legal: Este sistema es una herramienta de análisis basada en Machine Learning. Los mercados financieros implican riesgo. Resultados pasados no garantizan rendimientos futuros.
