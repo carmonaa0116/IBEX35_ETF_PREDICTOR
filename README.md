@@ -1,3 +1,6 @@
+<img width="1308" height="756" alt="image" src="https://github.com/user-attachments/assets/e8f2fdc2-4319-4575-ab7c-3cd2a121863c" />
+
+
 # 📊 ETF Predictor — IBEX 35 Signal Generator
 
 > **Machine Learning applied to Financial Markets**
